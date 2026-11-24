@@ -2,7 +2,7 @@
 const projects = [
     {
         title: "Robotic Arm Manipulator and Control",
-        image: "assets/projects/robot-arm.jpeg",
+        image: "assets/projects/inverse-kinematics.jpeg",
         description: "Designed and manufactured a 3-degree-of-freedom differential wrist and end effector for a robotic arm for the URC competition. Developed a control scheme combining inverse kinematics and current-controlled positioning. I also implemented an autonomous keyboard typing routine.",
         videoUrl: "https://youtu.be/fZ5lqiTug2U?t=50"
     },
